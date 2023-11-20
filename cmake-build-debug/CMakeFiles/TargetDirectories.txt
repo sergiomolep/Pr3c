@@ -1,0 +1,3 @@
+C:/Users/sergio/Downloads/pr3c_conan/cmake-build-debug/CMakeFiles/pr3c.dir
+C:/Users/sergio/Downloads/pr3c_conan/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sergio/Downloads/pr3c_conan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
